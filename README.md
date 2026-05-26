@@ -2,6 +2,10 @@
 
 ---
 
+![icon](icon.png)
+
+---
+
 - [Shift2Calendar](#shift2calendar)
   - [Introduzione](#introduzione)
   - [Origine Del Progetto](#origine-del-progetto)
@@ -16,8 +20,6 @@
   - [Licenza](#licenza)
 
 ---
-
-![icon](icon.png)
 
 ## Introduzione
 
