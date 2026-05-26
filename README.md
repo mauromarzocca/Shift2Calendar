@@ -17,6 +17,8 @@
 
 ---
 
+![icon](icon.png)
+
 ## Introduzione
 
 Shift2Calendar converte un file Excel con turni di lavoro in un calendario `.ics` importabile su iOS, Android, Google Calendar, Apple Calendar, Outlook e altre app compatibili con lo standard iCalendar.
